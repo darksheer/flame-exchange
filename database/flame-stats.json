@@ -1826,20 +1826,20 @@
     }
   ],
   "regulatoryAlerts": {
-    "total": 19807,
+    "total": 19809,
     "bySeverity": {
-      "high": 19620,
+      "high": 19622,
       "medium": 187
     },
     "bySource": {
       "cfpb": 100,
-      "fbi_ic3": 28,
+      "fbi_ic3": 30,
       "fincen": 93,
       "occ": 87,
       "ofac": 19399,
       "sec": 100
     },
-    "lastUpdated": "2026-09-17"
+    "lastUpdated": "2026-09-18"
   },
-  "generatedAt": "2026-09-17T21:17:18.884022+00:00"
+  "generatedAt": "2026-09-18T10:27:14.867076+00:00"
 }
