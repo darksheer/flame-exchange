@@ -225,7 +225,7 @@ UCFF is Group-IB's defense-side complement to their attack-side Fraud Matrix. Wh
 | **Group-IB Fraud Matrix** | ❌ | ❌ | ✅ (mobile-heavy) | ❌ (own taxonomy) | ❌ |
 | **Group-IB UCFF** | ✅ (whitepaper) | ❌ | ❌ (governance only) | ❌ (defense-side) | ❌ |
 | **FS-ISAC CFPF** | ✅ (paper) | ❌ (no platform) | ❌ | ❌ | ❌ |
-| **Stripe FT3** | ✅ (FT3 1.0) | Limited (FT3 2.0 trust groups) | Documented for FT3 2.0 | Documented for FT3 2.0 | ❌ |
+| **Stripe FT3** | ✅ (FT3 1.0) | Limited (FT3 2.0 trust groups) | ❌ (public v1) | ❌ (public v1) | ❌ |
 | **MITRE F3** | ✅ | ✅ | ❌ | ATT&CK-linked | ❌ |
 | **HEARTH** | ✅ | ✅ | ✅ | ✅ (ATT&CK) | N/A (threat hunting) |
 
